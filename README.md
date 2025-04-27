@@ -14,9 +14,9 @@ Fullstack (Data Processing + Visualization App)
 
 Deployed App
 
-Frontend (Streamlit): https://your-streamlit-app-url
+Frontend (Streamlit): https://drive.google.com/drive/folders/1LjRzJDlSS23pdAw_0m5Li68q45Udnvss?usp=sharing
 
-Backend (SQL Database): https://your-database-endpoint
+Backend (SQL Database): https://drive.google.com/file/d/1i04HyvuiUxEnInTyYs_yV6Wdy6fWjexi/view?usp=sharing
 
 Directory Structure
 
