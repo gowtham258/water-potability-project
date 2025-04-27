@@ -64,11 +64,6 @@ No Time/Region Data: Trend analyses focus on parameter correlations in absence o
 
 Installation & Getting Started
 
-Clone the repo
-
-git clone https://github.com/yourusername/water-potability-project.git
-cd water-potability-project
-
 Set up a virtual environment
 
 python3 -m venv venv
