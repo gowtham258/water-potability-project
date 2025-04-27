@@ -34,11 +34,11 @@ water-potability-project/
 
 Video Walkthrough of the Project
 
-Project Features & Dashboard Demo (2 min)
+https://drive.google.com/file/d/1yuzsnhqUtlvqAZP3p560CbBVmKVyOeOt/view?usp=sharing
 
 Video Walkthrough of the Codebase
 
-Code Structure & Key Modules (4 min)
+https://drive.google.com/file/d/1qXU3vY62UGjyA9zGhwYTE-3luivK2kjC/view?usp=sharing
 
 Features
 
