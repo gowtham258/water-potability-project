@@ -101,12 +101,6 @@ Run hypothesis tests to evaluate statistical significance of differences.
 
 Credentials
 
-For a local setup, no authentication is required. If deployed with user roles:
-
-Admin: admin@example.com / AdminPassword123
-
-Viewer: viewer@example.com / ViewerPassword123
-
 APIs Used
 
 No external APIs are required; all analysis is performed on local CSV and SQL data.
